@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://206.189.122.185/muno/';
+$config['base_url'] = 'http://localhost/muno-web/';
 $config['currency_symbol'] = "UGX ";
 
 define('BASE_URL', $config['base_url']);
